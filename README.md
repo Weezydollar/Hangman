@@ -1,0 +1,1 @@
+The computer randomly selects a word, and you try to guess it one letter at a time. Correct letters are revealed in their positions, while wrong guesses cost you a life. You have 6 lives to figure out the full word before the game ends.
